@@ -1,5 +1,4 @@
 import TeamsMap from "./Teams.js";
-import TeamsList from "./TeamsList.js";
 
 /*
     id will allow us to identify which game is chosen
